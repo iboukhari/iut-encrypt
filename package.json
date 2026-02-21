@@ -1,0 +1,25 @@
+{
+  "name": "@iboukhari/iut-encrypt",
+  "version": "1.0.0",
+  "description": "Module de cryptage SHA1 pour l'IUT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iboukhari/iut-encrypt.git"
+  },
+  "keywords": [
+    "encrypt",
+    "sha1",
+    "iut"
+  ],
+  "author": "Iboukhari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iboukhari/iut-encrypt/issues"
+  },
+  "homepage": "https://github.com/iboukhari/iut-encrypt#readme",
+  "type": "commonjs"
+}
